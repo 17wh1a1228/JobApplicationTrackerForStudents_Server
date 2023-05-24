@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JobApplicationTrackerForStudents_Server.props" />
+</Project>
