@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EZsmwpZm6ZQ4lQBm7SMdvogsG6+cDnMTLFdRdOaHVmQ=",
+  "Source": "JobApplicationTrackerForStudents_Server",
+  "BasePath": "_content/JobApplicationTrackerForStudents_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

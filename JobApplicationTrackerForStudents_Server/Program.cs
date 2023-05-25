@@ -58,7 +58,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddDbContext<JobApplicationsTrackerContext>(optionsBuilder =>
-    optionsBuilder.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    optionsBuilder.UseSqlServer(builder.Configuration.GetConnectionString("ProodConnection")));
 
 builder.Services.AddIdentity<ApplicationsUser, IdentityRole>()
     .AddEntityFrameworkStores<JobApplicationsTrackerContext>();
